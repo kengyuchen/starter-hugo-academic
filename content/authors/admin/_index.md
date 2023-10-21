@@ -48,42 +48,40 @@ education:
 # Skills
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
 skills:
-  - name: Technical
+  - name: Technical Skills
     items:
     - name: Python
       description: ''
-      percent: 80
       icon: python
       icon_pack: fab
-    - name: Data Science
+    - name: C/C++
       description: ''
-      percent: 100
-      icon: chart-line
+      icon: desktop
       icon_pack: fas
-    - name: SQL
-      description: ''
-      percent: 40
-      icon: database
+    - name: ChipWhisperer
+      description: 'A Toolchain for Side-Channel Analysis'
+      icon: computer
       icon_pack: fas
-  - name: Hobbies
+  - name: Personal Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
-        description: ''
-        percent: 60
-        icon: person-hiking
-        icon_pack: fas
-      - name: Cats
-        description: ''
-        percent: 100
-        icon: cat
-        icon_pack: fas
       - name: Photography
         description: ''
-        percent: 80
+        percent: 100
         icon: camera-retro
         icon_pack: fas
+      - name: Piano
+        description: ''
+        percent: 100
+        icon: music
+        icon_pack: fas
+      - name: Film
+        description: ''
+        percent: 100
+        icon: film
+        icon_pack: fas
+
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -122,5 +120,5 @@ social:
 highlight_name: true
 ---
 
-Keng-Yu Chen is a master's student in National Taiwan University majoring Computer Science in the Graduate Institute of Electrical Engineering, under the supervision of professor Jiun-Peng Chen and Ho-Lin Chen. Before this, he was an undergraduate student in the Department of Computer Science and Information Engineering in National Taiwan University.
+Keng-Yu Chen is a master's student in National Taiwan University majoring Computer Science in the [Graduate Institute of Electrical Engineering](https://graduate.ee.ntu.edu.tw/#/), under the supervision of professor [Jiun-Peng Chen](http://www.ee.ntu.edu.tw/profile1.php?id=1080416) and [Ho-Lin Chen](https://www.ee.ntu.edu.tw/profile1.php?id=100129). Before this, I was an undergraduate student in the [Department of Computer Science and Information Engineering](https://www.csie.ntu.edu.tw/) in National Taiwan Univerity.
 {style="text-align: justify;"}

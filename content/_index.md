@@ -44,7 +44,7 @@ sections:
       username: admin
   - block: skills
     content:
-      title: Skills
+      title:
       text: ''
       username: admin
     design:
