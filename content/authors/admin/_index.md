@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: Keng-Yu Chen (陳耕宇)
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation:
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Keng-Yu
+last_name: Chen
 
 # Status emoji
 status:
