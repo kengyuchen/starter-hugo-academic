@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: Academic # Website name
-baseURL: 'https://kengyuchen.github.io/starter-hugo-academic/' # Website URL
+baseURL: 'https://kengyuchen.github.io' # Website URL
 
 ############################
 ## LANGUAGE
