@@ -2,6 +2,7 @@
 title: Writing technical content in Markdown
 date: 2019-07-12
 math: true
+draft: true
 image:
   placement: 2
   caption: 'Image credit: [**John Moeses Bauan**](https://unsplash.com/photos/OGZtQF8iC0g)'
@@ -111,7 +112,7 @@ renders as
       ```js
       console.log('hello');
       console.log('code block');
-      ```
+```
     - Math: $x = {-b \pm \sqrt{b^2-4ac} \over 2a}$
 ```
 
