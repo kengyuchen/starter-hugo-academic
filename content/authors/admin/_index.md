@@ -120,5 +120,5 @@ social:
 highlight_name: true
 ---
 
-Keng-Yu Chen is now a master's student majoring Computer Science at the [Graduate Institute of Electrical Engineering, National Taiwan University](https://graduate.ee.ntu.edu.tw/#/), under the supervision of professor [Jiun-Peng Chen](http://www.ee.ntu.edu.tw/profile1.php?id=1080416) and [Ho-Lin Chen](https://www.ee.ntu.edu.tw/profile1.php?id=100129). Before this, he was an undergraduate student in the [Department of Computer Science and Information Engineering](https://www.csie.ntu.edu.tw/) at National Taiwan Univerity.
+Keng-Yu Chen is now a master's student majoring in Computer Science at the [Graduate Institute of Electrical Engineering, National Taiwan University](https://graduate.ee.ntu.edu.tw/#/), under the supervision of Professor [Jiun-Peng Chen](http://www.ee.ntu.edu.tw/profile1.php?id=1080416) and [Ho-Lin Chen](https://www.ee.ntu.edu.tw/profile1.php?id=100129). Before this, he was an undergraduate student in the [Department of Computer Science and Information Engineering](https://www.csie.ntu.edu.tw/) at National Taiwan Univerity.
 {style="text-align: justify;"}
