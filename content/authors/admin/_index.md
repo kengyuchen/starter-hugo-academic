@@ -29,8 +29,8 @@ bio: My research interests include side-channel analysis on cryptography and the
 
 # Interests to show in About widget
 interests:
-- Side-channel Analysis on Cryptography
-- Applied Cryptography
+- Side-channel Analysis
+- Theoretical and Applied Cryptography
 
 # Education to show in About widget
 education:
