@@ -37,7 +37,7 @@ education:
  courses:
  - course: "Master's Student in Computer Science"
    institution: Graduate Institute of Electrical Engineering, National Taiwan University
-   year: 2022
+   year: Present
  - course: BSc in Computer Science and Information Engineering
    institution: Department of Computer Science and Information Engineering, National Taiwan University
    year: 2022
