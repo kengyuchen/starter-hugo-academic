@@ -100,7 +100,7 @@ sections:
           #     * Modelling
           #     * Deploying
         - title: Adjunct Research Assistant
-          company: Research Center for Information Techonology Innovation, Acamedia Sinica
+          company: Research Center for Information Technology Innovation, Academia Sinica
           company_url: ''
           # company_logo: org-x
           location: Taiwan
@@ -108,7 +108,7 @@ sections:
           date_end: ''
           # description: Taught electronic engineering and researched semiconductor physics.
         - title: Research Intern
-          company: Institute of Information Science, Acamedia Sinica
+          company: Institute of Information Science, Academia Sinica
           company_url: ''
           # company_logo: org-x
           location: Taiwan
