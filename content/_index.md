@@ -105,7 +105,7 @@ sections:
           # company_logo: org-x
           location: Taiwan
           date_start: '2020-09-01'
-          date_end: ''
+          date_end: '2023-10-31'
           # description: Taught electronic engineering and researched semiconductor physics.
         - title: Research Intern
           company: Institute of Information Science, Academia Sinica

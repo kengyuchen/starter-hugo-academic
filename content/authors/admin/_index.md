@@ -17,7 +17,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Master's Student
+role: Master of Science
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -35,10 +35,10 @@ interests:
 # Education to show in About widget
 education:
  courses:
- - course: "Master's Student in Computer Science"
+ - course: "MS in Computer Science"
    institution: Graduate Institute of Electrical Engineering, National Taiwan University
-   year: Present
- - course: BSc in Computer Science and Information Engineering
+   year: 2024
+ - course: BS in Computer Science and Information Engineering
    institution: Department of Computer Science and Information Engineering, National Taiwan University
    year: 2022
  - course: BSc in Mathematics
@@ -120,5 +120,5 @@ social:
 highlight_name: true
 ---
 
-Keng-Yu Chen is now a master's student majoring in Computer Science at the [Graduate Institute of Electrical Engineering, National Taiwan University](https://graduate.ee.ntu.edu.tw/#/), under the supervision of Professor [Jiun-Peng Chen](http://www.ee.ntu.edu.tw/profile1.php?id=1080416) and [Ho-Lin Chen](https://www.ee.ntu.edu.tw/profile1.php?id=100129). Before this, he was an undergraduate student in the [Department of Computer Science and Information Engineering](https://www.csie.ntu.edu.tw/) at National Taiwan Univerity.
+Keng-Yu Chen is a master of science in Computer Science, graduating from the [Graduate Institute of Electrical Engineering, National Taiwan University](https://graduate.ee.ntu.edu.tw/#/) under the supervision of Professor [Jiun-Peng Chen](http://www.ee.ntu.edu.tw/profile1.php?id=1080416) and [Ho-Lin Chen](https://www.ee.ntu.edu.tw/profile1.php?id=100129). Before this, he received his bachelor's degree at the [Department of Computer Science and Information Engineering](https://www.csie.ntu.edu.tw/) at National Taiwan Univerity.
 {style="text-align: justify;"}

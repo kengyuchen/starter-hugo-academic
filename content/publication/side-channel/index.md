@@ -1,13 +1,13 @@
 ---
-title: "Masking Floating-Point Number Multiplication and Addition of Falcon (Under Revision)"
+title: "Masking Floating-Point Number Multiplication and Addition of Falcon"
 authors:
 - admin
 - Jiun-Peng Chen
-date: "2023-10-15"
+date: "2024-1-15"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2023-10-23T00:00:00Z"
+publishDate: "2024-01-15T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -18,10 +18,10 @@ publication_types: ["article-journal"]
 publication: "[IACR Transactions on Cryptographic Hardware and Embedded Systems (TCHES)](https://tches.iacr.org/)"
 publication_short: ""
 
-abstract: In this paper, we present the first masking scheme for Falcon’s floating-point number multiplication and addition, which are crucial for the pre-image vector computation. Our approach involves a masked nonzero check algorithm that securely identifies whether a shared value is zero. This algorithm can be utilized for various computations such as rounding the mantissa, computing the sticky bit, checking the equality of two values, and normalizing a number. To support the masked floating-point number addition, we also developed a masked shift and a masked normalization algorithm. Our masking design provides both first- and higher-order mask protection. We demonstrate the theoretical security of our algorithms by proving the (Strong)-Non-Interferece properties in the probing model. To evaluate the performance of our approach, we implement unmasked, first-order, and second-order algorithms on the ARM Cortex-M4 processor, providing cycle counts and the number of random bytes used. We also report the time for one complete signing process with our countermeasure on the Intel-Core CPU. In addition, we assess the practical security of our approach by conducting the test vector leakage assessment (TVLA) to validate effectiveness of our protection. Specifically, our TVLA experiment results for second-order masking pass the test in 100,000 measured traces.
+abstract: In this paper, we provide the first masking scheme for floating-point number multiplication and addition to defend against recent side-channel attacks on Falcon's pre-image vector computation. Our approach involves a masked nonzero check gadget that securely identifies whether a shared value is zero. This gadget can be utilized for various computations such as rounding the mantissa, computing the sticky bit, checking the equality of two values, and normalizing a number. To support the masked floating-point number addition, we also developed a masked shift and a masked normalization gadget. Our masking design provides both first- and higher-order mask protection, and we demonstrate the theoretical security by proving the (Strong)-Non-Interference properties in the probing model. To evaluate the performance of our approach, we implemented unmasked, first-order, and second-order algorithms on an Arm Cortex-M4 processor, providing cycle counts and the number of random bytes used. We also report the time for one complete signing process with our countermeasure on an Intel-Core CPU. In addition, we assessed the practical security of our approach by conducting the test vector leakage assessment (TVLA) to validate the effectiveness of our protection. Specifically, our TVLA experiment results for second-order masking passed the test in 100,000 measured traces.
 
 # Summary. An optional shortened abstract.
-summary: "In this paper, we present the first masking scheme for Falcon’s floating-point number multiplication and addition, which are crucial for the pre-image vector computation."
+summary: "In this paper, we provide the first masking scheme for floating-point number multiplication and addition to defend against recent side-channel attacks on Falcon's pre-image vector computation."
 
 tags:
 - Side-Channel Analysis
