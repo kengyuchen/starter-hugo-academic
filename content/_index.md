@@ -229,7 +229,7 @@ sections:
       title: My Photography Works
       # subtitle: ''
       text: |-
-        {{< gallery album="photography" >}}
+        {{< gallery album="myphoto" >}}
     design:
       columns: '1'
   # - block: contact
