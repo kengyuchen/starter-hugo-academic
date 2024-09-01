@@ -29,8 +29,8 @@ tags:
 featured: true
 
 links:
-# - name: ''
-  # url: ''
+- name: 'DOI'
+  url: 'https://tches.iacr.org/index.php/TCHES/article/view/11428'
 url_pdf: ''
 url_code: ''
 url_dataset: ''
