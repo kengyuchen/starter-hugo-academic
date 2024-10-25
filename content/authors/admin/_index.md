@@ -17,12 +17,12 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Master of Science
+role: PhD Student
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: National Taiwan University
-    url: https://www.ntu.edu.tw
+  - name: École Polytechnique Fédérale de Lausanne
+    url: https://www.epfl.ch/en/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include side-channel analysis on cryptography and theoretical aspects of concrete cryptographic constructions
@@ -35,6 +35,9 @@ interests:
 # Education to show in About widget
 education:
  courses:
+ - course: "PhD Student in Computer and Communication Sciences"
+   institution: School of Computer and Communication Sciences, École Polytechnique Fédérale de Lausanne
+   year: 
  - course: "MS in Computer Science"
    institution: Graduate Institute of Electrical Engineering, National Taiwan University
    year: 2024
@@ -66,8 +69,8 @@ skills:
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Photography
-        description: ''
+      - name: Photography (Follow my [Instagram](https://www.instagram.com/garychen.photoworks/))
+        description:
         percent: 100
         icon: camera-retro
         icon_pack: fas
@@ -90,19 +93,20 @@ skills:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:r11921066@ntu.edu.tw'
+    link: 'mailto:keng-yu.chen@epfl.ch'
   - icon: github
     icon_pack: fab
     link: https://github.com/kengyuchen
   - icon: facebook-square
     icon_pack: fab
     link: https://www.facebook.com/gengyuc/
+  - icon: instagram
+    icon_pack: fab
+    link: https://www.instagram.com/garychen.photoworks/
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/RHGoJKFiLwHkaWR
     label: Follow me on Twitter
-    display:
-      header: true
   # - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
   #   icon_pack: fas
   #   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
@@ -120,5 +124,5 @@ social:
 highlight_name: true
 ---
 
-Keng-Yu Chen is a master of science in Computer Science, graduating from the [Graduate Institute of Electrical Engineering, National Taiwan University](https://graduate.ee.ntu.edu.tw/#/) under the supervision of Professor [Jiun-Peng Chen](http://www.ee.ntu.edu.tw/profile1.php?id=1080416) and [Ho-Lin Chen](https://www.ee.ntu.edu.tw/profile1.php?id=100129). Before this, he received his bachelor's degree at the [Department of Computer Science and Information Engineering](https://www.csie.ntu.edu.tw/) at National Taiwan Univerity.
+Keng-Yu Chen is now a PhD student in Computer and Communication Sciences at the [LASEC](https://lasec.epfl.ch/) lab at [École Polytechnique Fédérale de Lausanne](https://www.epfl.ch/en/). He received his master's degree in Computer Science from the [Graduate Institute of Electrical Engineering, National Taiwan University](https://graduate.ee.ntu.edu.tw/#/) under the supervision of Professor [Jiun-Peng Chen](http://www.ee.ntu.edu.tw/profile1.php?id=1080416) and [Ho-Lin Chen](https://www.ee.ntu.edu.tw/profile1.php?id=100129). 
 {style="text-align: justify;"}
