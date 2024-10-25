@@ -124,5 +124,5 @@ social:
 highlight_name: true
 ---
 
-Keng-Yu Chen is now a PhD student in Computer and Communication Sciences at the [LASEC](https://lasec.epfl.ch/) lab at [École Polytechnique Fédérale de Lausanne](https://www.epfl.ch/en/). He received his master's degree in Computer Science from the [Graduate Institute of Electrical Engineering, National Taiwan University](https://graduate.ee.ntu.edu.tw/#/) under the supervision of Professor [Jiun-Peng Chen](http://www.ee.ntu.edu.tw/profile1.php?id=1080416) and [Ho-Lin Chen](https://www.ee.ntu.edu.tw/profile1.php?id=100129). 
+Keng-Yu Chen is now a PhD student in Computer and Communication Sciences at the [LASEC](https://lasec.epfl.ch/) lab at [École Polytechnique Fédérale de Lausanne](https://www.epfl.ch/en/). He received his master's degree in Computer Science from the [Graduate Institute of Electrical Engineering, National Taiwan University](https://graduate.ee.ntu.edu.tw/#/) under the supervision of Professor [Jiun-Peng Chen](http://www.ee.ntu.edu.tw/profile1.php?id=1080416) and Professor [Ho-Lin Chen](https://www.ee.ntu.edu.tw/profile1.php?id=100129). 
 {style="text-align: justify;"}
