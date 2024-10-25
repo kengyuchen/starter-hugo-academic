@@ -88,12 +88,18 @@ sections:
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
         - title: Student
+          company: LASEC, École Polytechnique Fédérale de Lausanne
+          company_url: 'https://lasec.epfl.ch/'
+          location: Lausanne, Switzerland
+          date_start: '2024-09-01'
+          date_end: ''
+        - title: Student
           company: Side-Channel Laboratory, National Taiwan University
           company_url: ''
           # company_logo: ntu
-          location: Taiwan
+          location: Taipei, Taiwan
           date_start: '2020-06-01'
-          date_end: ''
+          date_end: '2024-01-01'
           # description: |2-
           #     Responsibilities include:
           #     * Analysing
@@ -103,7 +109,7 @@ sections:
           company: Research Center for Information Technology Innovation, Academia Sinica
           company_url: ''
           # company_logo: org-x
-          location: Taiwan
+          location: Taipei, Taiwan
           date_start: '2020-09-01'
           date_end: '2023-10-31'
           # description: Taught electronic engineering and researched semiconductor physics.
@@ -111,7 +117,7 @@ sections:
           company: Institute of Information Science, Academia Sinica
           company_url: ''
           # company_logo: org-x
-          location: Taiwan
+          location: Taipei, Taiwan
           date_start: '2023-07-01'
           date_end: '2023-08-31'
     design:
