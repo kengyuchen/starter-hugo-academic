@@ -30,7 +30,7 @@ bio: My research interests include side-channel analysis on cryptography and the
 # Interests to show in About widget
 interests:
 - Side-channel Analysis
-- Theoretical and Applied Cryptography
+- Theoretical View on Cryptographic Constructions
 
 # Education to show in About widget
 education:
@@ -74,7 +74,7 @@ skills:
         percent: 100
         icon: camera-retro
         icon_pack: fas
-      - name: Piano
+      - name: Classical and J-Pop Music
         description: ''
         percent: 100
         icon: music
@@ -97,9 +97,6 @@ social:
   - icon: github
     icon_pack: fab
     link: https://github.com/kengyuchen
-  - icon: facebook-square
-    icon_pack: fab
-    link: https://www.facebook.com/gengyuc/
   - icon: instagram
     icon_pack: fab
     link: https://www.instagram.com/garychen.photoworks/

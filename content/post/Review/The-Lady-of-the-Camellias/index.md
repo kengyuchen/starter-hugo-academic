@@ -28,11 +28,11 @@ tags: "Book"
 
 我很喜歡這段原文。
 
-“But to be really loved by a courtesan: that is a victory of infinitely greater difficulty. With them the body has worn out the soul, the senses have burned up the heart, dissipation has blunted the feelings. They have long known the words that we say to them, the means we use; they have sold the words that they inspire. They love by profession, and not by instinct.”
+> “But to be really loved by a courtesan: that is a victory of infinitely greater difficulty. With them the body has worn out the soul, the senses have burned up the heart, dissipation has blunted the feelings. They have long known the words that we say to them, the means we use; they have sold the words that they inspire. They love by profession, and not by instinct.”
 
 「但要獲得一個妓女的真愛，是無限困難的挑戰。他們的肉體磨卻了靈魂、感官燒盡了心靈，墮落的生活已經鈍化了她們的感情。她們熟知我們訴說給她們的情話，以及我們訴說的方式。她們早已出賣那些能啟發她們內心的話語。她們的愛是出於職業，而非本能。」
 
-“Which is why they have coined the word 'caprice' to describe those non-commercial affairs in which they indulge from time to time as a relief, an excuse or as a consolation”
+> “Which is why they have coined the word 'caprice' to describe those non-commercial affairs in which they indulge from time to time as a relief, an excuse or as a consolation”
 
 「這正是為什麼她們用任性妄為，來形容她們有時沈迷其中不尋求利益的愛。那是一種救贖、一種藉口、一種安慰。」
 
@@ -50,7 +50,7 @@ tags: "Book"
 
 於是我們看到，初登場的瑪格麗特是無比任性的，她不屑任何一個男人的求愛，把上門拜訪的貴族用最尖酸刻薄的言語驅除後，卻又能在隔天若無其事地向他們索取金錢。
 
-“If I had to listen to everybody who is in love with me, I wouldn't have the time to eat my dinner.”
+> “If I had to listen to everybody who is in love with me, I wouldn't have the time to eat my dinner.”
 
 「要是我得聽每一個愛上我的人的話，我簡直不用吃飯了。」
 
@@ -72,7 +72,7 @@ tags: "Book"
 
 然而看似胡亂編排的劇情，其實早就有預告了。故事早在第十二章已埋下伏筆。
 
-“But when God allows a courtesan to fall in love, her love, which at first looks like a pardon for her sins, proves almost invariably to be a punishment on her. There is no absolution without penance”
+> “But when God allows a courtesan to fall in love, her love, which at first looks like a pardon for her sins, proves almost invariably to be a punishment on her. There is no absolution without penance”
 
 「但當上帝允許一個妓女墜入真愛之時，儘管起初看似是對她們的寬恕，但最終都毫無例外變成一種懲罰。沒有懺悔，就沒有救贖。」
 
@@ -96,7 +96,7 @@ tags: "Book"
 
 書本的最後，留下了一句耐人尋味的話。
 
-“Marguerite is an exception.”
+> “Marguerite is an exception.”
 
 「瑪格麗特是個例外。」
 
@@ -110,15 +110,11 @@ tags: "Book"
 
 茶花女的確是個例外，正因如此才要把它寫出來，如果小仲馬曾如此鍾愛這個女人與她的故事的話。
 
-“I am not the apostle of vice, but I would gladly be the echo of noble sorrow wherever I hear its voice in prayer.”
+> “I am not the apostle of vice, but I would gladly be the echo of noble sorrow wherever I hear its voice in prayer.”
 
 「我無意作罪惡的宣導者，但只要聽到祈禱中的高貴悲傷，我很樂意成為其迴響，無論何時。」
 
 況且，它的記述根本不需要有什麼偉大的名義。它不需要為弱勢群體發聲，也不需要批判當時巴黎貴族的奢靡。它只是一個糊裡糊塗的年輕人，與一個外表與內心都美麗的娼妓，兩人的愛情故事而已。
 
 因為僅只於此，它就足夠優秀了。
-
-
-
-![Book](post/The-Lady-of-the-Camellias/book.jpeg)
 

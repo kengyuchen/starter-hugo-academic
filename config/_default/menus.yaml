@@ -8,14 +8,23 @@ main:
     url: '#about'
     weight: 10
   - name: Publications
-    url: '#featured'
+    url: 'publication/'
     weight: 20
-  - name: Experience
-    url: '#research_experience'
-    weight: 30
-  - name: Posts
-    url: '#posts'
-    weight: 40
+  # - name: Experience
+  #   url: '#research_experience'
+  #   weight: 30
+  # - name: Recent Posts
+  #   url: '#posts'
+  #   weight: 40
+  - name: All Posts
+    url: 'post/'
+    weight: 80
+  - name: Note
+    url: 'category/note/'
+    weight: 60
+  - name: Review
+    url: 'category/review/'
+    weight: 70
   # - name: Projects
   #   url: '#projects'
   #   weight: 30
@@ -28,6 +37,9 @@ main:
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.
+  - name : Photography
+    url: '#photo'
+    weight: 80
   - name: CV
     url: uploads/CV.pdf
-    weight: 70
+    weight: 100

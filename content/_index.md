@@ -87,13 +87,13 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: Student
+        - title: PhD Student
           company: LASEC, École Polytechnique Fédérale de Lausanne
           company_url: 'https://lasec.epfl.ch/'
           location: Lausanne, Switzerland
           date_start: '2024-09-01'
           date_end: ''
-        - title: Student
+        - title: Master and Bachelor Student
           company: Side-Channel Laboratory, National Taiwan University
           company_url: ''
           # company_logo: ntu
@@ -113,13 +113,13 @@ sections:
           date_start: '2020-09-01'
           date_end: '2023-10-31'
           # description: Taught electronic engineering and researched semiconductor physics.
-        - title: Research Intern
-          company: Institute of Information Science, Academia Sinica
-          company_url: ''
-          # company_logo: org-x
-          location: Taipei, Taiwan
-          date_start: '2023-07-01'
-          date_end: '2023-08-31'
+        # - title: Research Intern
+        #   company: Institute of Information Science, Academia Sinica
+        #   company_url: ''
+        #   # company_logo: org-x
+        #   location: Taipei, Taiwan
+        #   date_start: '2023-07-01'
+        #   date_end: '2023-08-31'
     design:
       columns: '2'
   # - block: accomplishments
@@ -186,7 +186,7 @@ sections:
       order: desc
     design:
       # Choose a layout view
-      view: compact
+      view: showcase
       columns: '2'
   # - block: portfolio
   #   id: projects
@@ -231,6 +231,7 @@ sections:
   #   design:
   #     columns: '2'
   - block: markdown
+    id: photo
     content:
       title: My Photography Works
       # subtitle: ''
